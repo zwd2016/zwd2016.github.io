@@ -26,14 +26,14 @@ Currently, I focus on the following research topics:
 
 ### Education
 - 2020.9-Now           Ph.D in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. Gang Chen
-- 2017.9-2020.6        M.s. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. Jun Hu
+- 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. Jun Hu
 - 2013.9-2017.6        B.E. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. Siqing Yin
 
 ### Publications
-- [4] Jun Hu and **Wendong Zheng**. “A deep learning model to effectively capture mutation information in multivariate time series prediction,” **_Knowledge-Based Systems_**, Vol. 203, pp. 1-20, Sep. 5, 2020. (**SCI-1 IF=5.921, CCF-C**).
-- [3] Jun Hu and **Wendong Zheng**. “Multistage Attention Network for Multivariate Time Series Prediction,” **_Neurocomputing_**, Vol. 383, pp. 122-137, March 28, 2020. (**SCI-2 IF=4.438, CCF-C**).
-- [2] Jun Hu and **Wendong Zheng**. “Transformation-gated LSTM: efficient capture of short-term mutation dependencies for multivariate time series prediction tasks,” The 2019 International Joint Conference on Neural Networks (**_IJCNN_**), Budapest, Hungary, July 14-19, 2019. (**CCF-C oral presentation rate 36.4%**) 
-- [1] Jun Hu and **Wendong Zheng**. “An Adaptive Optimization Algorithm Based on Hybrid Power and Multidimensional Update Strategy,” **_IEEE Access_**, 2019 ,7(1): 19355 - 19369. (**SCI-2, IF=4.098**)
+- [4] Jun Hu and **Wendong Zheng**. “A deep learning model to effectively capture mutation information in multivariate time series prediction,” **_Knowledge-Based Systems_**, Vol. 203, pp. 1-20, Sep. 5, 2020. (**SCI-1 IF=5.921, CCF-C**). [PDF-link](https://www.sciencedirect.com/science/article/pii/S0950705120303919)
+- [3] Jun Hu and **Wendong Zheng**. “Multistage Attention Network for Multivariate Time Series Prediction,” **_Neurocomputing_**, Vol. 383, pp. 122-137, March 28, 2020. (**SCI-2 IF=4.438, CCF-C**). [PDF-link](https://www.sciencedirect.com/science/article/pii/S0925231219316625#auth1Bio1)
+- [2] Jun Hu and **Wendong Zheng**. “Transformation-gated LSTM: efficient capture of short-term mutation dependencies for multivariate time series prediction tasks,” The 2019 International Joint Conference on Neural Networks (**_IJCNN_**), Budapest, Hungary, July 14-19, 2019. (**CCF-C oral presentation rate 36.4%**). [PDF-link](https://ieeexplore.ieee.org/document/8852073/authors#authors) 
+- [1] Jun Hu and **Wendong Zheng**. “An Adaptive Optimization Algorithm Based on Hybrid Power and Multidimensional Update Strategy,” **_IEEE Access_**, 2019 ,7(1): 19355 - 19369. (**SCI-2, IF=4.098**). [PDF-link](https://ieeexplore.ieee.org/document/8635473/keywords#keywords) 
 
 ### Services
 #### Membership:
