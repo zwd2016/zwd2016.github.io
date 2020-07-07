@@ -9,7 +9,7 @@
       <p><b>Address: No. 132, waihuan east road of university city, Guangzhou, Guangdong Province, China.</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengwendong.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengwendong.jpg" width="100%">      
     </td>
   </tr>
 </table>
