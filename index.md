@@ -19,7 +19,7 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-sen University
 
 ### Research Interest
 Currently, I focus on the following research topics:
-- multivariate time series prediction
+- Multivariate time series prediction
 - Recurrent neural network
 - First-order stochastic optimization algorithm
 - Spike neural network
