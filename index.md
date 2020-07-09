@@ -7,8 +7,6 @@
       <p><b>Institution: School of Data and Computer Science, Sun Yat-sen University</b></p>
       <p><b>Email: wendongzheng94@foxmail.com</b></p>
       <p><b>Address: No. 132, waihuan east road of university city, Guangzhou, Guangdong Province, China.</b></p>
-      <p><b></b></p>
-      <p><b></b></p>
     </td>
     <td width="25%">
       <img src="/zhengwendong.jpg" width="100%">      
