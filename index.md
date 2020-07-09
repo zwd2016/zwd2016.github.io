@@ -7,8 +7,8 @@
       <p><b>Institution: School of Data and Computer Science, Sun Yat-sen University</b></p>
       <p><b>Email: wendongzheng94@foxmail.com</b></p>
       <p><b>Address: No. 132, waihuan east road of university city, Guangzhou, Guangdong Province, China.</b></p>
-      <p><b>[Researchgate](https://www.researchgate.net/profile/Wendong_Zheng3)</b></p>
-      <p><b>[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=gLe67O0AAAAJ)</b></p>
+      <p><b></b></p>
+      <p><b></b></p>
     </td>
     <td width="25%">
       <img src="/zhengwendong.jpg" width="100%">      
@@ -18,6 +18,10 @@
 
 ### Short Bio
 Wendong Zheng currently is studying for his PhD degree at Sun Yat-sen University, Guangzhou, China. He received his B.E. degree in Software Engineering in 2017, from North University of China, China. He received his M.S. degree in Computer Science in 2020, from Hunan University, China. His research interests include time series prediction and first-order stochastic optimization algorithm.
+
+### Contact
+- [Researchgate](https://www.researchgate.net/profile/Wendong_Zheng3)
+- [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=gLe67O0AAAAJ)
 
 ### Research Interest
 Currently, I focus on the following research topics:
