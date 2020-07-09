@@ -7,6 +7,8 @@
       <p><b>Institution: School of Data and Computer Science, Sun Yat-sen University</b></p>
       <p><b>Email: wendongzheng94@foxmail.com</b></p>
       <p><b>Address: No. 132, waihuan east road of university city, Guangzhou, Guangdong Province, China.</b></p>
+      <p><b>[Researchgate](https://www.researchgate.net/profile/Wendong_Zheng3)</b></p>
+      <p><b>[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=gLe67O0AAAAJ)</b></p>
     </td>
     <td width="25%">
       <img src="/zhengwendong.jpg" width="100%">      
@@ -25,8 +27,8 @@ Currently, I focus on the following research topics:
 - Spike neural network
 
 ### Education
-- 2020.9-Now           Ph.D in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. Gang Chen
-- 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. Jun Hu
+- 2020.9-Now           Ph.D in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
+- 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. [Jun Hu](http://csee.hnu.edu.cn/people/hujun)
 - 2013.9-2017.6        B.E. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. Siqing Yin
 
 ### Publications
