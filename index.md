@@ -24,14 +24,14 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-sen University
 ### Research Interest
 Currently, I focus on the following research topics:
 - Multivariate time series prediction
-- Recurrent neural network
+- LSTM
 - First-order stochastic optimization algorithm
-- Spike neural network
+- Spiking neural networks
 
 ### Education
 - 2020.9-Now           Ph.D in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
 - 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. [Jun Hu](http://csee.hnu.edu.cn/people/hujun)
-- 2013.9-2017.6        B.E. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. Siqing Yin
+- 2013.9-2017.6        B.E. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
 
 ### Publications
 - [4] Jun Hu and **Wendong Zheng**. “A deep learning model to effectively capture mutation information in multivariate time series prediction,” **_Knowledge-Based Systems_**, Vol. 203, pp. 1-20, Sep. 5, 2020. (**SCI-1 IF=5.921, CCF-C**). [PDF-link](https://www.sciencedirect.com/science/article/pii/S0950705120303919)
