@@ -5,7 +5,7 @@
       <h1>Name: Wendong Zheng</h1>
       <p><b>Title: PhD Student</b></p>
       <p><b>Institution: School of Data and Computer Science, Sun Yat-sen University</b></p>
-      <p><b>Email: wendongzheng94@foxmail.com</b></p>
+      <p><b>Email: zhengwd6@mail2.sysu.edu.cn</b></p>
       <p><b>Address: No. 132, waihuan east road of university city, Guangzhou, Guangdong Province, China.</b></p>
     </td>
     <td width="25%">
