@@ -48,11 +48,12 @@ Currently, I focus on the following research topics:
 
 #### Journal & Conference Reviewer:
 
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Transactions on Cybernetics
-- IEEE Access
-- Knowledge-Based Systems
-- IEEE HPCC-2019
+- IEEE Transactions on Neural Networks and Learning Systems (2019-1 up to now)
+- IEEE Transactions on Cybernetics (2020-10 up to now)
+- IEEE Transactions on Systems Man Cybernetics-Systems (2020-12 up to now)
+- IEEE Access (2018-10 up to now)
+- Knowledge-Based Systems (2019-9 up to now)
+- IEEE HPCC-2019 (Reviewer)
 - IEEE ICIST-2019 (PC Member)
 
 ### Awards
