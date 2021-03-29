@@ -27,6 +27,8 @@ Currently, I focus on the following research topics:
 - LSTM
 - First-order stochastic optimization algorithm
 - Spiking neural networks
+- Exponential decay of long-term memory
+- Attention mechanism
 
 ### Education
 - 2020.9-Now           Ph.D in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
