@@ -61,6 +61,7 @@ Currently, I focus on the following research topics:
 - IEEE ICIST-2019 (PC Member)
 
 ### Awards
+- SIGIR Student Travel Grant Award to attend CIKM 2021, SIGIR, 2021.9
 - Excellent Graduate Student of Hunan University, Hunan University, 2020.3
 - National Graduate Scholarship, Ministry of Education, 2019.12
 - First Prize of Academic Scholarship, Hunan University, 2017 & 2019
