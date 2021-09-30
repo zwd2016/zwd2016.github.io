@@ -45,23 +45,26 @@ Currently, I focus on the following research topics:
 ### Services
 #### Membership:
 
-- IEEE Student Member, 2019-Now
+- IEEE Student Member, 2019-Present
+- ACM SIGIR Student Member, 2021-9-Present
 - CCF Student Member, 2017-2020
 - INNS Student Member, 2019-2020
 
 #### Journal & Conference Reviewer:
 
-- IEEE Transactions on Neural Networks and Learning Systems (2019-1 up to now)
-- IEEE Transactions on Cybernetics (2020-10 up to now)
-- IEEE Transactions on Systems Man Cybernetics-Systems (2020-12 up to now)
-- Journal of Circuits, Systems, and Computers (2020-12 up to now)
-- IEEE Access (2018-10 up to now)
-- Knowledge-Based Systems (2019-9 up to now)
+- IEEE Transactions on Neural Networks and Learning Systems (2019-1 -- present)
+- IEEE Transactions on Cybernetics (2020-10 -- present)
+- IEEE Transactions on Systems Man Cybernetics-Systems (2020-12 -- present)
+- Journal of Circuits, Systems, and Computers (2020-12 -- present)
+- IEEE Access (2018-10 -- present)
+- Knowledge-Based Systems (2019-9 -- present)
 - IEEE HPCC-2019 (Reviewer)
-- IEEE ICIST-2019 (PC Member)
+- IEEE ICIST-2019 (Program Committee Member)
 
 ### Awards
+- Second Prize of Academic Scholarship, Sun Yat-Sen University, 2021.10
 - SIGIR Student Travel Grant Award to attend CIKM 2021, SIGIR, 2021.9
+- Third Prize of Academic Scholarship, Sun Yat-Sen University, 2020.9
 - Excellent Graduate Student of Hunan University, Hunan University, 2020.3
 - National Graduate Scholarship, Ministry of Education, 2019.12
 - First Prize of Academic Scholarship, Hunan University, 2017 & 2019
