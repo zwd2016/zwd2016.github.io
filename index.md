@@ -55,9 +55,10 @@ Currently, I focus on the following research topics:
 - IEEE Transactions on Neural Networks and Learning Systems (2019-1 -- present)
 - IEEE Transactions on Cybernetics (2020-10 -- present)
 - IEEE Transactions on Systems Man Cybernetics-Systems (2020-12 -- present)
+- Knowledge-Based Systems (2019-9 -- present)
 - Journal of Circuits, Systems, and Computers (2020-12 -- present)
 - IEEE Access (2018-10 -- present)
-- Knowledge-Based Systems (2019-9 -- present)
+- International Journal of Antennas and Propagation (2021-10 -- present)
 - IEEE HPCC-2019 (Reviewer)
 - IEEE ICIST-2019 (Program Committee Member)
 
