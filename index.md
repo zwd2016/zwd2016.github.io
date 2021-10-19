@@ -36,6 +36,7 @@ Currently, I focus on the following research topics:
 - 2013.9-2017.6        B.E. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
 
 ### Publications
+- [6] **Wendong Zheng**, Gang Chen. "An Accurate GRU-based Power Time Series Prediction Approach with Selective State Updating and Stochastic Optimization," **_IEEE Transactions on Cybernetics_**, in press. (**CCF-B, JCR-2020 IF=11.448**)
 - [5] **Wendong Zheng**, Putian Zhao, Kai Huang and Gang Chen. "Understanding the Property of Long Term Memory for the LSTM with Attention Mechanism," Conference on Information and Knowledge Management (**_CIKM-2021_**), November 1–5, 2021, Virtual Event, Australia (**CCF-B, acceptance rate=21.7%, oral**).
 - [4] Jun Hu and **Wendong Zheng**. "A deep learning model to effectively capture mutation information in multivariate time series prediction," **_Knowledge-Based Systems_**, Vol. 203, pp. 1-20, Sep. 5, 2020. (**SCI-1 JCR-2020 IF=8.038, CCF-C**). [PDF-link](https://www.sciencedirect.com/science/article/pii/S0950705120303919)
 - [3] Jun Hu and **Wendong Zheng**. "Multistage Attention Network for Multivariate Time Series Prediction," **_Neurocomputing_**, Vol. 383, pp. 122-137, March 28, 2020. (**SCI-2 JCR-2020 IF=5.719, CCF-C**). [PDF-link](https://www.sciencedirect.com/science/article/pii/S0925231219316625#auth1Bio1)
