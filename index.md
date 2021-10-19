@@ -3,10 +3,10 @@
   <tr>
     <td width="75%">
       <h1>Name: Wendong Zheng</h1>
-      <p><b>Title: PhD Student</b></p>
-      <p><b>Institution: School of Data and Computer Science, Sun Yat-sen University</b></p>
+      <p><b>Title: PhD candidate</b></p>
+      <p><b>Institution: School of Computer Science and Engineering, Sun Yat-Sen University</b></p>
       <p><b>Email: zhengwd6@mail2.sysu.edu.cn</b></p>
-      <p><b>Address: No. 132, waihuan east road of university city, Guangzhou, Guangdong Province, China.</b></p>
+      <p><b>Address: No. 132, waihuan east road, Panyu district, Guangzhou, Guangdong Province, China.</b></p>
     </td>
     <td width="25%">
       <img src="/zhengwendong.jpg" width="100%">      
@@ -33,7 +33,7 @@ Currently, I focus on the following research topics:
 ### Education
 - 2020.9-Now           Ph.D in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
 - 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. [Jun Hu](http://csee.hnu.edu.cn/people/hujun)
-- 2013.9-2017.6        B.E. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
+- 2013.9-2017.6        B.S. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
 
 ### Publications
 - [6] **Wendong Zheng**, Gang Chen. "An Accurate GRU-based Power Time Series Prediction Approach with Selective State Updating and Stochastic Optimization," **_IEEE Transactions on Cybernetics_**, in press. (**SCI-1 Top, JCR-2020 IF=11.448, CCF-B**)
