@@ -6,7 +6,7 @@
       <p><b>Title: PhD candidate</b></p>
       <p><b>Institution: School of Computer Science and Engineering, Sun Yat-Sen University</b></p>
       <p><b>Email: zhengwd6@mail2.sysu.edu.cn</b></p>
-      <p><b>Address: No. 132, waihuan east road, Panyu district, Guangzhou, Guangdong Province, China.</b></p>
+      <p><b>Address: No. 132, waihuan east road, Panyu District, Guangzhou, Guangdong Province, China.</b></p>
     </td>
     <td width="25%">
       <img src="/zhengwendong.jpg" width="100%">      
@@ -15,7 +15,7 @@
 </table>
 
 ### Short Bio
-Wendong Zheng currently is studying for his PhD degree at Sun Yat-sen University, Guangzhou, China. He received his B.E. degree in Software Engineering in 2017, from North University of China, China. He received his M.S. degree in Computer Science in 2020, from Hunan University, China. His research interests include time series prediction and first-order stochastic optimization algorithm.
+Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University, Guangzhou, China. He received his B.S. degree in Software Engineering in 2017, from North University of China, China. He received his M.S. degree in Computer Science in 2020, from Hunan University, China. 
 
 ### Contact
 - [Researchgate](https://www.researchgate.net/profile/Wendong_Zheng3)
@@ -27,7 +27,7 @@ Currently, I focus on the following research topics:
 - LSTM
 - First-order stochastic optimization algorithm
 - Spiking neural networks
-- Exponential decay of long-term memory
+- Decay rate of long-term memory
 - Attention mechanism
 
 ### Education
