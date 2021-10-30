@@ -60,6 +60,7 @@ Currently, I focus on the following research topics:
 - Journal of Circuits, Systems, and Computers (2020-12 -- present)
 - IEEE Access (2018-10 -- present)
 - International Journal of Antennas and Propagation (2021-10 -- present)
+- Discrete Dynamics in Nature and Society (2021-10 -- present)
 - IEEE HPCC-2019 (Reviewer)
 - IEEE ICIST-2019 (Program Committee Member)
 
