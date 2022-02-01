@@ -26,7 +26,7 @@ Currently, I focus on the following research topics:
 - Multivariate time series prediction
 - LSTM
 - First-order stochastic optimization algorithm
-- Spiking neural networks
+- Spiking recurrent neural networks and its robustness
 - Decay rate of long-term memory
 - Attention mechanism
 
@@ -34,6 +34,9 @@ Currently, I focus on the following research topics:
 - 2020.9-Now           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
 - 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. [Jun Hu](http://csee.hnu.edu.cn/people/hujun)
 - 2013.9-2017.6        B.S. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
+
+### Funds/Projects
+- [1] "Deep Learning Method for Multivariable Spatio-temporal Prediction with Complex Correlation Characteristics," supported by State Key Lab. for Novel Software Technology, Nanjing University, P.R. China under Grant KFKT2019B09. (2019-2020, Finished)
 
 ### Publications
 - [7] **Wendong Zheng**, Jun Hu. "Multivariate Time Series Prediction Based on Temporal Change Information Learning Method," **_IEEE Transactions on Neural Networks and Learning Systems_**, in press, pp. 1-15, 2021. (**SCI-1 Top, JCR-2020 IF=10.451, CCF-B**) [PDF-link](https://ieeexplore.ieee.org/document/9669023)
