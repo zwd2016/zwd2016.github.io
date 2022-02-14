@@ -15,7 +15,7 @@
 </table>
 
 ### Short Bio
-Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University, Guangzhou, China. He received his B.S. degree in Software Engineering in 2017, from North University of China, China. He received his M.S. degree in Computer Science in 2020, from Hunan University, China. 
+Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University, Guangzhou, China. He received B.S. degree in Software Engineering in 2017, from North University of China, China; M.S. degree in Computer Science in 2020, from Hunan University, China. 
 
 ### Contact
 - [Researchgate](https://www.researchgate.net/profile/Wendong_Zheng3)
@@ -31,7 +31,7 @@ Currently, I focus on the following research topics:
 - Attention mechanism
 
 ### Education
-- 2020.9-Now           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
+- 2020.9-present           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
 - 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. [Jun Hu](http://csee.hnu.edu.cn/people/hujun)
 - 2013.9-2017.6        B.S. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
 
@@ -50,8 +50,8 @@ Currently, I focus on the following research topics:
 ### Services
 #### Membership:
 
-- IEEE Student Member, 2019-Present
-- ACM SIGIR Student Member, 2021-9-Present
+- IEEE Student Member, 2019-present
+- ACM SIGIR Student Member, 2021-9-present
 - CCF Student Member, 2017-2020
 - INNS Student Member, 2019-2020
 
@@ -66,7 +66,7 @@ Currently, I focus on the following research topics:
 - International Journal of Antennas and Propagation (2021-10 -- present)
 - Discrete Dynamics in Nature and Society (2021-10 -- present)
 - Systems Science and Control Engineering (2021-11 -- present)
-- ICML-2022 (Reviewer)
+- The Thirty-ninth International Conference on Machine Learning (ICML)-2022 (Reviewer)
 - IEEE HPCC-2019 (Reviewer)
 - IEEE ICIST-2019 (Program Committee Member)
 
