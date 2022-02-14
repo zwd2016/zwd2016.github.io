@@ -6,7 +6,7 @@
       <p><b>Title: PhD candidate</b></p>
       <p><b>Institution: School of Computer Science and Engineering, Sun Yat-Sen University</b></p>
       <p><b>Email: zhengwd6@mail2.sysu.edu.cn</b></p>
-      <p><b>Address: No. 132, waihuan east road, Panyu District, Guangzhou, Guangdong Province, China.</b></p>
+      <p><b>Address: No. 132, Waihuan east road, Panyu District, Guangzhou, Guangdong Province, China.</b></p>
     </td>
     <td width="25%">
       <img src="/zhengwendong.jpg" width="100%">      
