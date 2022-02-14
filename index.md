@@ -22,7 +22,6 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=gLe67O0AAAAJ)
 
 ### Research Interest
-Currently, I focus on the following research topics:
 - Multivariate time series prediction
 - LSTM
 - First-order stochastic optimization algorithm
