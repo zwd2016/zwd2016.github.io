@@ -65,6 +65,7 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - International Journal of Antennas and Propagation (2021-10 -- present)
 - Discrete Dynamics in Nature and Society (2021-10 -- present)
 - Systems Science and Control Engineering (2021-11 -- present)
+- International Journal of Information Technology & Decision Making (2022-3 -- present)
 - The Thirty-ninth International Conference on Machine Learning (ICML)-2022 (Reviewer)
 - IEEE HPCC-2019 (Reviewer)
 - IEEE ICIST-2019 (Program Committee Member)
