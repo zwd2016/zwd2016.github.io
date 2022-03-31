@@ -67,6 +67,7 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - Systems Science and Control Engineering (2021-11 -- present)
 - International Journal of Information Technology & Decision Making (2022-3 -- present)
 - The Thirty-ninth International Conference on Machine Learning (ICML)-2022 (Reviewer)
+- Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS)-2022 (Reviewer)
 - IEEE HPCC-2019 (Reviewer)
 - IEEE ICIST-2019 (Program Committee Member)
 
