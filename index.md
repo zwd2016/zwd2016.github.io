@@ -57,19 +57,20 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 
 #### Journal & Conference Reviewer:
 
-- IEEE Transactions on Neural Networks and Learning Systems (2019-1 -- present)
-- IEEE Transactions on Cybernetics (2020-10 -- present)
+- IEEE Transactions on Neural Networks and Learning Systems (CCF B, 2019-1 -- present)
+- IEEE Transactions on Cybernetics (CCF B, 2020-10 -- present)
 - IEEE Transactions on Systems Man Cybernetics-Systems (2020-12 -- present)
-- Knowledge-Based Systems (2019-9 -- present)
+- Knowledge-Based Systems (CCF C, 2019-9 -- present)
 - Journal of Circuits, Systems, and Computers (2020-12 -- present)
 - IEEE Access (2018-10 -- present)
 - International Journal of Antennas and Propagation (2021-10 -- present)
 - Discrete Dynamics in Nature and Society (2021-10 -- present)
 - Systems Science and Control Engineering (2021-11 -- present)
 - International Journal of Information Technology & Decision Making (2022-3 -- present)
-- The Thirty-ninth International Conference on Machine Learning (ICML)-2022 (Reviewer)
-- Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS)-2022 (Reviewer)
-- IEEE HPCC-2019 (Reviewer)
+- Neural Networks (CCF B, 2022-6 -- present)
+- The Thirty-ninth International Conference on Machine Learning (ICML)-2022 (CCF A, Reviewer)
+- Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS)-2022 (CCF A, Reviewer)
+- IEEE HPCC-2019 (CCF C, Reviewer)
 - IEEE ICIST-2019 (Program Committee Member)
 
 ### Awards
