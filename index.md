@@ -74,6 +74,8 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - IEEE ICIST-2019 (Program Committee Member)
 
 ### Awards
+- Top Reviewer in Systems Science & Control Engineering, Taylor & Francis journals, 2022.9
+- Second Prize of Academic Scholarship, Sun Yat-Sen University, 2022.9
 - Second Prize of Academic Scholarship, Sun Yat-Sen University, 2021.10
 - SIGIR Student Travel Grant Award to attend CIKM 2021, SIGIR, 2021.9
 - Third Prize of Academic Scholarship, Sun Yat-Sen University, 2020.9
