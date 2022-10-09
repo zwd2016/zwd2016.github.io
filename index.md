@@ -48,8 +48,8 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - [1] Jun Hu and **Wendong Zheng**. "An Adaptive Optimization Algorithm Based on Hybrid Power and Multidimensional Update Strategy," **_IEEE Access_**, 2019 ,7(1): 19355 - 19369. (**SCI-2, JCR-2020 IF=3.367**). [PDF-link](https://ieeexplore.ieee.org/document/8635473/keywords#keywords) [code-link](https://github.com/zwd2016/AdaHMG)
 
 ### Vocational/Technical Qualification Certification
-- China Qualification Certificate of Computer and Software Technology---middle level(Software designer), 2016
-- CCF - CSP certification, Top 10%, 2019
+- China Qualification Certificate of Computer and Software Technology, Middle Level (Software designer), 2016
+- CCF-CSP certification, Top 10%, 2019
 
 ### Services
 #### Membership:
