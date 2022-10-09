@@ -47,6 +47,10 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - [2] Jun Hu and **Wendong Zheng**. "Transformation-gated LSTM: efficient capture of short-term mutation dependencies for multivariate time series prediction tasks," The 2019 International Joint Conference on Neural Networks (**_IJCNN_**), Budapest, Hungary, July 14-19, 2019. (**CCF-C oral presentation rate 36.4%**). [PDF-link](https://ieeexplore.ieee.org/document/8852073/authors#authors) [code-link](https://github.com/zwd2016/TG-LSTM-network-for-time-series-prediction)
 - [1] Jun Hu and **Wendong Zheng**. "An Adaptive Optimization Algorithm Based on Hybrid Power and Multidimensional Update Strategy," **_IEEE Access_**, 2019 ,7(1): 19355 - 19369. (**SCI-2, JCR-2020 IF=3.367**). [PDF-link](https://ieeexplore.ieee.org/document/8635473/keywords#keywords) [code-link](https://github.com/zwd2016/AdaHMG)
 
+### Vocational/Technical Qualification Certification
+- China Qualification Certificate of Computer and Software Technology---middle level(Software designer), 2016
+- CCF - CSP certification, Top 10%, 2019
+
 ### Services
 #### Membership:
 
