@@ -23,11 +23,12 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 
 ### Research Interest
 - Multivariate time series prediction
-- LSTM
+- LSTM, GRU
 - First-order stochastic optimization algorithm
 - Spiking recurrent neural networks and its robustness
 - Decay rate of long-term memory
-- Attention mechanism
+- Attention mechanism and Transformer-based models
+- Online action detection
 
 ### Education
 - 2020.9-present           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
