@@ -76,8 +76,8 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - Knowledge and Information Systems (CCF B, 2022-12 -- present)
 - IEEE Transactions on Circuits and Systems I: Regular Papers (2022-12 -- present)
 - IEEE Network letter (2022-11 -- present)
-- The Thirty-ninth International Conference on Machine Learning (ICML)-2022 (CCF A, Reviewer)
-- Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS)-2022 (CCF A, Reviewer)
+- The Thirty-ninth International Conference on Machine Learning (ICML)-2022, 2023 (CCF A, Reviewer)
+- Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS)-2022, 2023 (CCF A, Reviewer)
 - IEEE HPCC-2019 (CCF C, Reviewer)
 - IEEE ICIST-2019 (Program Committee Member)
 
