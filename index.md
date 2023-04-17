@@ -31,7 +31,7 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - Online action detection
 
 ### Education
-- 2020.9-present           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Associate Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
+- 2020.9-present           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
 - 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. [Jun Hu](http://csee.hnu.edu.cn/people/hujun)
 - 2013.9-2017.6        B.S. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
 
