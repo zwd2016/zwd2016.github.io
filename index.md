@@ -62,6 +62,7 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 
 #### Journal & Conference Reviewer:
 
+- IEEE Transactions on Pattern Analysis and Machine intelligence (CCF A, 2023-5 -- present)
 - IEEE Transactions on Neural Networks and Learning Systems (CCF B, 2019-1 -- present)
 - IEEE Transactions on Cybernetics (CCF B, 2020-10 -- present)
 - IEEE Transactions on Systems Man Cybernetics-Systems (2020-12 -- present)
