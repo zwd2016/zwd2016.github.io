@@ -3,10 +3,10 @@
   <tr>
     <td width="75%">
       <h1>Name: Wendong Zheng</h1>
-      <p><b>Title: PhD candidate</b></p>
-      <p><b>Institution: School of Computer Science and Engineering, Sun Yat-Sen University</b></p>
-      <p><b>Email: zhengwd6@mail2.sysu.edu.cn</b></p>
-      <p><b>Address: No. 132, Waihuan east road, Panyu District, Guangzhou, Guangdong Province, China.</b></p>
+      <p><b>Title: Lecturer</b></p>
+      <p><b>Institution: Shanxi University</b></p>
+      <p><b>Email: wendongz@sxu.edu.cn</b></p>
+      <p><b>Address: No. 92, Wucheng road, Xiaodian District, Taiyuan, Shanxi Province, China.</b></p>
     </td>
     <td width="25%">
       <img src="/zhengwendong.jpg" width="100%">      
@@ -15,7 +15,7 @@
 </table>
 
 ### Short Bio
-Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University, Guangzhou, China. He received B.S. degree in Software Engineering in 2017, from North University of China, China; M.S. degree in Computer Science in 2020, from Hunan University, China. 
+Wendong Zheng currently is a Lecturer studying for Shanxi University. He received PhD degree in Computer Science in 2024, from Sun Yat-Sen University, Guangzhou, China. He received B.S. degree in Software Engineering in 2017, from North University of China, China; M.S. degree in Computer Science in 2020, from Hunan University, China. 
 
 ### Contact
 - [Researchgate](https://www.researchgate.net/profile/Wendong_Zheng3)
@@ -30,7 +30,7 @@ Wendong Zheng currently is studying for his PhD degree at Sun Yat-Sen University
 - robust BNN
 
 ### Education
-- 2020.9-present           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
+- 2020.9-2024.6           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Prof. [Gang Chen](http://sdcs.sysu.edu.cn/content/4547)
 - 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. [Jun Hu](http://csee.hnu.edu.cn/people/hujun)
 - 2013.9-2017.6        B.S. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
 
