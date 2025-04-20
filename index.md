@@ -15,7 +15,7 @@
 </table>
 
 ### Short Bio
-Wendong Zheng currently is a Lecturer studying for Shanxi University. He received PhD degree in Computer Science in 2024, from Sun Yat-Sen University, Guangzhou, China. He received B.S. degree in Software Engineering in 2017, from North University of China, China; M.S. degree in Computer Science in 2020, from Hunan University, China. 
+Wendong Zheng currently is a Lecturer working for Shanxi University. He received PhD degree in Computer Science in 2024, from Sun Yat-Sen University, Guangzhou, China. He received B.S. degree in Software Engineering in 2017, from North University of China, China; M.S. degree in Computer Science in 2020, from Hunan University, China. 
 
 ### Contact
 - [Researchgate](https://www.researchgate.net/profile/Wendong_Zheng3)
