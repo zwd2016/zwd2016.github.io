@@ -15,29 +15,32 @@
 </table>
 
 ### Short Bio
-Wendong Zheng currently is a Lecturer working for Shanxi University. He received PhD degree in Computer Science in 2024, from Sun Yat-Sen University, Guangzhou, China. He received B.S. degree in Software Engineering in 2017, from North University of China, China; M.S. degree in Computer Science in 2020, from Hunan University, China. 
+Hey, I’m Wendong Zheng, working at Shanxi University as a lecturer. He received PhD degree in Computer Science in 2024, from Sun Yat-Sen University, Guangzhou, China. He received B.S. degree in Software Engineering in 2017, from North University of China, China; M.S. degree in Computer Science in 2020, from Hunan University, China. 
 
-### Contact
+### Personal Links
 - [Researchgate](https://www.researchgate.net/profile/Wendong_Zheng3)
 - [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&pli=1&user=gLe67O0AAAAJ)
 
 ### Research Interest
-- Multivariate time series prediction
-- Spiking recurrent neural networks and its robustness
-- Robust DBNNs under environmental noise perturbations
-- Decay rate of long-term memory for LSTM & attention models
-- First-order stochastic optimization algorithm
+- Multivariate time series prediction (2017 -- present)
+- Robust deep binary neural networks (DBNNs) under environmental noise perturbations (2024 -- present)
+- Spiking recurrent neural networks and its robustness (2022 -- 2023)
+- Decay rate of long-term memory for LSTM & attention models (2020 -- 2021)
+- First-order stochastic optimization algorithm (2017 -- 2021)
+
+### Work Experience
+- 2024.7-Present        School of Computer and Information Technology, Shanxi University.                       Lecturer
 
 ### Education
-- 2020.9-2024.6           Ph.D student in School of Data and Computer Science, Sun Yat-sen University.               Supervisor: Prof. [Gang Chen](https://cse.sysu.edu.cn/teacher/ChenGang)
+- 2020.9-2024.6           Ph.D in School of Computer Science, Sun Yat-sen University.               Supervisor: Prof. [Gang Chen](https://cse.sysu.edu.cn/teacher/ChenGang)
 - 2017.9-2020.6        M.S. in College of Computer Science and Electronic Engineering, Hunan University.         Supervisor: Associate Prof. [Jun Hu](http://csee.hnu.edu.cn/people/hujun)
 - 2013.9-2017.6        B.S. in School of Software Engineering, North University of China.                 Supervisor: Associate Prof. [Siqing Yin](http://ss.nuc.edu.cn/info/1158/4613.htm)
 
-### Funds/Projects
+### Funds
 - [1] "Deep Learning Method for Multivariable Spatio-temporal Prediction with Complex Correlation Characteristics," supported by State Key Lab. for Novel Software Technology, Nanjing University, P.R. China under Grant KFKT2019B09. (2019-2020, Finished)
 
 ### Publications
-- [10] **Wendong Zheng**, Junyang Chen, Husheng Guo, and Wenjian Wang. "Can DBNNs Robust to Environmental Noise for Resource-constrained Scenarios?," Forty-second International Conference on Machine Learning (**_ICML_**), Vancouver, Canada, pp. 1-10, in press, 2025. (**CCF-A, acceptance rate=26.9%, poster**) [code-link](https://gitee.com/wdz2020/robust-dbnn)
+- [10] **Wendong Zheng**, Junyang Chen, Husheng Guo, and Wenjian Wang. "Can DBNNs Robust to Environmental Noise for Resource-constrained Scenarios?," Forty-second International Conference on Machine Learning (**_ICML_**), Vancouver, Canada, pp. 1-10, in press, 2025. (**CCF-A, acceptance rate=26.9%, poster**) [code-link](https://gitee.com/wdz2020/robust-dbnn) [PDF-link](https://openreview.net/forum?id=UKX0k1cWfL)
 - [9] **Wendong Zheng**, Yu Zhou, Gang Chen, Zonghua Gu and Kai Huang. "Towards Effective Training of Robust Spiking Recurrent Neural Networks Under General Input Noise via Provable Analysis," IEEE/ACM International Conference on Computer Aided Design (**_ICCAD_**), San Francisco, CA, USA, pp. 1-9, 2023 (**CCF-B, acceptance rate=22.9%, oral**). [PDF-link](https://ieeexplore.ieee.org/abstract/document/10323789)
 - [8] **Wendong Zheng**, Putian Zhao, Gang Chen, Huihui Zhou and Yonghong Tian. "A Hybrid Spiking Neurons Embedded LSTM Network for Multivariate Time Series Learning under Concept-drift Environment," **_IEEE Transactions on Knowledge and Data Engineering_**, Vol. 35, no. 7, pp. 6561-6574, 2023. (**SCI-2, JCR-2021 IF=9.235, CCF-A**) [PDF-link](https://ieeexplore.ieee.org/document/9783029) [code-link](https://github.com/zwd2016/HSN-LSTM)
 - [7] **Wendong Zheng**, Jun Hu. "Multivariate Time Series Prediction Based on Temporal Change Information Learning Method," **_IEEE Transactions on Neural Networks and Learning Systems_**, in press, pp. 1-15, 2021. (**SCI-1 Top, JCR-2021 IF=14.255, CCF-B**) [PDF-link](https://ieeexplore.ieee.org/document/9669023)
